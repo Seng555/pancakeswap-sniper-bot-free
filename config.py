@@ -14,7 +14,7 @@ transactionRevertTime = 1000 #Limit for make transaction
 gasAmount = 500000 #Minimul limit is 210000, more much more better.
 gasPrice = 7 #Customize your GWEI (gas fee) here, cannot decimal. (eg : 5, 10, 25).
 
-bscScanAPIKey= "NYBZQ1DI6FMBTQRJBV9YKRXAJHGY1N2HYE" #Your BSC API Key Get From https://bscscan.com
+bscScanAPIKey= "" #Your BSC API Key Get From https://bscscan.com
 
 pancakeSwapRouterAddress = "0x10ED43C718714eb63d5aA57B78B54704E256024E"          #pancakeSwapRouterAddress
 pancakeSwapFactoryAddress = "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"         #pancakeSwapFactoryAddress
