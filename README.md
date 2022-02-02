@@ -8,23 +8,8 @@
 * NEW UPDATES
 1. In this new update you can use BNB instead WBNB. it will make you easier to snipe :)
 
-
-*Demo for SY bot:
-1. You can Approve
-2. Check liquidity & check BUY & Sell
-3. Check real price 
-4. You can't send transcription 
-5. Sell token
-
-*Real for SY bot:
-You can Use full
-1. SY Developer : https://t.me/seng55
-2. website : 
-
-<img src="./assets/01.PNG">
-
 *What's will you get
-To avoid scam, I will invite you to my private repository, aTo avoid scam, I will invite you to my private repository, and you will get whole of code, and any update if I push new update. Please only contact to Telegrame:<code>@Seng55</code> or <code>eeyang5@gmail.com</code> with subject <b>SY Bot Info</b> for more info. For error or problem questions please open issues in GitHub, don't email me. Maybe I'll slow response on weekend. Thanks!
+To avoid scam, I will invite you to my private repository, aTo avoid scam, I will invite you to my private repository, and you will get whole of code, and any update if I push new update. Please only contact to Telegrame:<code>@Seng55</code> or <code>eeyang5@gmail.com</code> with subject <b>SY Bot Info</b> for more info. For error or problem questions please open issues in GitHub, don't email me. Maybe I'll slow response on weekend. Thanks!nd you will get whole of code, and any update if I push new update. Please only contact to Discord : <code>countdown#4008</code> or <code>nafidinara@gmail.com</code> with subject <b>PancakeSwap Bot Info</b> for more info. For error or problem questions please open issues in GitHub, don't email me. Maybe I'll slow response on weekend. Thanks!
 
 *Bot future
 1. You can snipe new listing token on pancakeswap v2 or any defi like pancakeswap v2 (See how to on above)
@@ -62,7 +47,7 @@ pancakeSwapFactoryAddress = "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"        
 bsc = "https://bsc-dataseed.binance.org/"                                        #BSC JSON-RPC
 -------------------------------------------------
 
-2. run with <code>SBot.exe</code> include Insert and console windows.
+2. run with <code>SY_Bot.exe</code> include Insert and console windows.
 
 3. Insert Token Contract you want to sniper, than press "Sniper Start" You will see any working on console windows<br>
    <img src="./assets/02.PNG">
@@ -77,4 +62,3 @@ The not guarantee make profit every token you snipe, do you research token info 
 - you haven't approve your WBNB or Any Token you want to buy or sell
 - your gas price are to small
 - your GWEI are to small (BSC use 7+ for fast)
-

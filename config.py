@@ -1,14 +1,14 @@
 
-walletAddress = "0x0000000000000000000000000000000000000000"                     #Your Wall address From trustwallet or another wallet.
+walletAddress = "0x0000000000000000000000000000000000000000"                     #Your Wall address From trustwallet or MetaMask or another wallet.
 private_key = "0x00000000000000000000000000000000000000000000000000000000000000" #Wallet private_key
 
-spend = "0xe9e7cea3dedca5984780bafc599bd69add087d56"  # WBNB OR OTHER contract for buy the token
+spend = "0xe9e7cea3dedca5984780bafc599bd69add087d56"  # WBNB OR BUSD OR USDT OR OTHER contract for buy the token
 
-AmountForSnipe = 0.001  # Amount how much you want buy the token in WBNB OR OTHER.
+AmountForSnipe = 1000 # Amount how much you want buy the token in spend.
 MinLiquidityAdded = 10  # Set how much minimum liquidity added in pair address that you want to buy. set in WBNB OR OTHER. (eg : 2, 4, 7). 2 mean 2 BNB liquidity added.
 MaxSlippage = 25  # Max Slippage or Prince Impact
-SellToken = 0   # 0 = Not Sell after buy, 1 = Sell token after buy by take profit
-Takeprofit = 300 # On percent
+SellToken = 1   # 0 = Not Sell after buy, 1 = Sell token after buy by take profit
+Takeprofit = 250 # In percent
 
 transactionRevertTime = 1000 #Limit for make transaction
 gasAmount = 500000 #Minimul limit is 210000, more much more better.
