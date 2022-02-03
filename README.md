@@ -30,26 +30,26 @@ To avoid scam, I will invite you to my private repository, aTo avoid scam, I wil
 * HOW TO RUN
 1. set up your config.py to with this explanation : 
 ----------------------------------------------------------
-walletAddress = "0x0000000000000000000000000000000000000000"                     #Your Wall address From trustwallet or another wallet.
-private_key = "x000000000000000000000000000000000000000000000000000000000000000" #Wallet private_key
+- walletAddress = "0x0000000000000000000000000000000000000000"                     (Your Wall address From trustwallet or another wallet.)
+- private_key = "x000000000000000000000000000000000000000000000000000000000000000" (Wallet private_key)
 
-spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  # WBNB OR OTHER contract for buy the token
+- spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  (WBNB OR OTHER contract for buy the token)
 
-AmountForSnipe = 0.0024  # Amount how much you want buy the token in WBNB OR OTHER.
-MinLiquidityAdded = 5  # Set how much minimum liquidity added in pair address that you want to buy. set in spend. (eg : 2, 4, 7). if spend is BNB, 2 mean 2 BNB liquidity added.
+- AmountForSnipe = 0.0024   (Amount how much you want buy the token in WBNB OR OTHER.)
+- MinLiquidityAdded = 5   (Set how much minimum liquidity added in pair address that you want to buy. set in spend. (eg : 2, 4, 7). if spend is BNB, 2 mean 2 BNB liquidity added.)
 
-SellToken = 0   # 0 = Not Sell after buy, 1 = Sell token after buy by take profit
-Takeprofit = 150 # On percent
+- SellToken = 0    (0 = Not Sell after buy, 1 = Sell token after buy by take profit)
+- Takeprofit = 150  (On percent)
 
-transactionRevertTime = 1000 #Limit for make transaction
-gasAmount = 400000 #Minimul limit is 210000, more much more better.
-gasPrice = 5 #Customize your GWEI (gas fee) here, cannot decimal. (eg : 5, 10, 25).
+- transactionRevertTime = 1000 (Limit for make transaction)
+- gasAmount = 400000 (Minimul limit is 210000, more much more better.)
+- gasPrice = 5 (Customize your GWEI (gas fee) here, cannot decimal. (eg : 5, 10, 25)).
 
-bscScanAPIKey= "XXXXXXXXXXXXXXXXXXXXXXXXX" #Your BSC API Key Get From bscscan.com
+- bscScanAPIKey= "XXXXXXXXXXXXXXXXXXXXXXXXX" (Your BSC API Key Get From bscscan.com)
 
-pancakeSwapRouterAddress = "0x10ED43C718714eb63d5aA57B78B54704E256024E"          #pancakeSwapRouterAddress
-pancakeSwapFactoryAddress = "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"         #pancakeSwapFactoryAddress
-bsc = "https://bsc-dataseed.binance.org/"                                        #BSC JSON-RPC
+- pancakeSwapRouterAddress = "0x10ED43C718714eb63d5aA57B78B54704E256024E"          (pancakeSwapRouterAddress) </br>
+- pancakeSwapFactoryAddress = "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"         (pancakeSwapFactoryAddress)
+- bsc = "https://bsc-dataseed.binance.org/"                                        (BSC JSON-RPC)
 -------------------------------------------------
 
 2. run with <code>SY_Bot.exe</code> include Insert and console windows.
