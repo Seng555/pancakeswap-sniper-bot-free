@@ -47,7 +47,7 @@ gasPrice = 5 #Customize your GWEI (gas fee) here, cannot decimal. (eg : 5, 10, 2
 
 bscScanAPIKey= "XXXXXXXXXXXXXXXXXXXXXXXXX" #Your BSC API Key Get From bscscan.com
 
-</br>pancakeSwapRouterAddress = "0x10ED43C718714eb63d5aA57B78B54704E256024E"          #pancakeSwapRouterAddress
+pancakeSwapRouterAddress = "0x10ED43C718714eb63d5aA57B78B54704E256024E"          #pancakeSwapRouterAddress
 pancakeSwapFactoryAddress = "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"         #pancakeSwapFactoryAddress
 bsc = "https://bsc-dataseed.binance.org/"                                        #BSC JSON-RPC
 -------------------------------------------------
