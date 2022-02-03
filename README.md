@@ -36,7 +36,7 @@ private_key = "x000000000000000000000000000000000000000000000000000000000000000"
 spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  # WBNB OR OTHER contract for buy the token
 
 AmountForSnipe = 0.0024  # Amount how much you want buy the token in WBNB OR OTHER.
-MinLiquidityAdded = 5  # Set how much minimum liquidity added in pair address that you want to buy. set in WBNB OR OTHER. (eg : 2, 4, 7). 2 mean 2 BNB liquidity added.
+MinLiquidityAdded = 5  # Set how much minimum liquidity added in pair address that you want to buy. set in spend. (eg : 2, 4, 7). if spend is BNB, 2 mean 2 BNB liquidity added.
 
 SellToken = 0   # 0 = Not Sell after buy, 1 = Sell token after buy by take profit
 Takeprofit = 150 # On percent
