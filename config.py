@@ -1,5 +1,5 @@
 
-walletAddress = "0x0000000000000000000000000000000000000000"                     #Your Wall address From trustwallet or MetaMask or another wallet.
+walletAddress = "0x0000000000000000000000000000000000000111"                     #Your Wall address From trustwallet or MetaMask or another wallet.
 private_key = "0x00000000000000000000000000000000000000000000000000000000000000" #Wallet private_key
 
 spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  # WBNB OR BUSD OR USDT OR OTHER (Default BNB) contract for buy the token
