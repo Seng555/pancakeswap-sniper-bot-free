@@ -1,5 +1,5 @@
 <h1>Free pancakeswap sniper bot</h1>
-  * Get Your username from: http://pancakesbot.com/
+  * Get Your username and offer 50% from: http://pancakesbot.com/
 
 ## NOW THE BOT IS POSSIBLE FOR BSC: PANCAKESWAP (DEFAULT)
   YOU CAN USE TO ANY DEFI SAME UNISWAP V2 AND PANCAKESWAP V2, BUT YOU NEED TO CHANGE pairabi, pancakeABI AND pancakeSwapFactoryABI
