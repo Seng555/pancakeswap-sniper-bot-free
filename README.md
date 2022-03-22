@@ -1,5 +1,5 @@
 <h2>pancakeswap sniper bot Free</h2>
-  * Get Your username and offer 50% code: SYBOT50 from: http://pancakesbot.com/
+  * Get Your username and offer 50% code: SYBOT50 from: http://pancakesbot.com/ <br/>
   * Disable your antivirus Before open bot, because some EXE file is not install package will be block <br/>
 <br/>##Warning: We do not engage in any way with your profit or loss or your money. It only free or paid package
 
