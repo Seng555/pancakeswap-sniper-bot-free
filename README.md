@@ -1,9 +1,9 @@
-<h1>Free pancakeswap sniper bot</h1>
-  
-* Get Your username from: http://pancakesbot.com/
+<h1>Pancakeswap sniper bot free </h1>
+ <img src="./assets/01.PNG">
   
 * Disable your antivirus Before open bot, because some EXE file is not install package will be block
-
+## Note
+I have nothing to do with your profit, loss and capital. Bot is free
 
 
 ## NOW THE BOT IS POSSIBLE FOR BSC: PANCAKESWAP (DEFAULT)
@@ -17,15 +17,17 @@
 ## NEW UPDATES
 1. In this new update you can use BNB instead WBNB. it will make you easier to snipe :)
 
-*What's will you get
-To avoid scam, I will invite you to my private repository, aTo avoid scam, I will invite you to my private repository, and you will get whole of code, and any update if I push new update. Please only contact to Telegrame:<code>https://t.me/Sbot_live</code> or <code>eeyang5@gmail.com</code> with subject <b>SY Bot Info</b> for more info. For error or problem questions please open issues in GitHub, don't email me. Maybe I'll slow response on weekend. Thanks!
+## What's will you get
+Everything is free no charge. Please only contact to Telegrame:<code>https://t.me/seng55</code> with subject <b>PC bot</b> for more info. For error or problem questions please open issues in GitHub, don't PM me. Maybe I'll slow response on weekend. Thanks!
 
 ## Bot future
-1. You can snipe new listing token on pancakeswap v2 or any defi like pancakeswap v2 (See how to on above)
-2. Sell ALL you token 
-3. Sell you token by TakeProfit or Selllimt (Capital is AmountForSnipe)
+1. You can snipe new listing token you want on pancakeswap v2 
+2. Sell ALL token
+3. Sell token by TakeProfit or Selllimt (Capital is AmountForSnipe)
 3. Approve 
 4. Check Real price
+5. Buy limit
+6. Sell Limit
 
 ## How sniper work ?
 1. When liquidity added Bot will auto buy and sell when profit more than takeprofit (Please Approve before Sniper)
@@ -34,7 +36,7 @@ To avoid scam, I will invite you to my private repository, aTo avoid scam, I wil
 ## HOW TO RUN
 1. set up your config.py to with this explanation : 
 ----------------------------------------------------------
-- walletAddress = "Your_wallet"                     #Your Wall address From trustwallet or another wallet. How to Export an Account Private Key                 https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
+- walletAddress = "Your_wallet"                     #Your Wall address From trustwallet or another wallet. How to Export an Account Private Key https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 - private_key = "Wallet_private_key" #Wallet private_key
 
 - spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  # WBNB OR OTHER contract for buy the token
@@ -49,14 +51,10 @@ To avoid scam, I will invite you to my private repository, aTo avoid scam, I wil
 - gasAmount = 400000 #Minimul limit is 210000, more much more better.
 - gasPrice = 5 #Customize your GWEI (gas fee) here, cannot decimal. (eg : 5, 10, 25).
 
-- bscScanAPIKey= "XXXXXXXXXXXXXXXXXXXXXXXXX" #Your BSC API Key Get From bscscan.com
-
-- pancakeSwapRouterAddress = "0x10ED43C718714eb63d5aA57B78B54704E256024E"          #pancakeSwapRouterAddress
-- pancakeSwapFactoryAddress = "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"         #pancakeSwapFactoryAddress
-- bsc = "https://bsc-dataseed.binance.org/"                                        #BSC JSON-RPC
+- bsc = "https://bsc-dataseed.binance.org/"                     #BSC JSON-RPC
 -------------------------------------------------
 
-2. run with <code>SY_Bot.exe</code> include Insert and console windows.
+2. run with <code>pc_bot_v3.exe</code> include Insert and console windows.
 
 3. Insert Token Contract you want to sniper, than press "Sniper Start" You will see any working on console windows<br>
    <img src="./assets/02.PNG">
