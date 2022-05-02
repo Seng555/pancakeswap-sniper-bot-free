@@ -54,7 +54,7 @@ Everything is free no charge. Please only contact to Telegrame:<code>https://t.m
 - bsc = "https://bsc-dataseed.binance.org/"                     #BSC JSON-RPC
 -------------------------------------------------
 
-2. run with <code>pc_bot_v3.exe</code> include Insert and console windows.
+2. run with <code>Sbot V1.5.exe</code> include Insert and console windows.
 
 3. Insert Token Contract you want to sniper, than press "Sniper Start" You will see any working on console windows<br>
    <img src="./assets/02.PNG">
