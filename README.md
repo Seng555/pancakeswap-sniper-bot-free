@@ -5,6 +5,12 @@
 ## Note
 I have nothing to do with your profit, loss and capital. Bot is free
 
+## pancakeswap sniper bot free BSC
+ - Download https://github.com/Seng555/pancakeswap-sniper-bot-free
+## quickswap sniper bot free POLYGON
+ - Download https://github.com/Seng555/quickswap-sniper-bot-free
+## TraderJoe Sniper bot free AVAX
+ - Download https://github.com/Seng555/quickswap-sniper-bot-free
 
 ## NOW THE BOT IS POSSIBLE FOR BSC: PANCAKESWAP (DEFAULT)
   YOU CAN USE TO ANY DEFI SAME UNISWAP V2 AND PANCAKESWAP V2, BUT YOU NEED TO CHANGE pairabi, pancakeABI AND pancakeSwapFactoryABI
